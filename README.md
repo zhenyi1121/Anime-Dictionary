@@ -1,2 +1,2 @@
 # Anime-Dictionary
-This is a quiz website to let anime fans challenge their how familiar with their favourite anime series.
+This is a quiz website to let anime fans challenge that how familiar with their favourite anime series.
